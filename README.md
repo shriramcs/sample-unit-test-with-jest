@@ -2,6 +2,17 @@
 
 ## Project setup
 
+```
+npm install
+```
+
+### Run your tests
+
+```
+npm run test
+```
+
+
 steps followed as per : 
 https://levelup.gitconnected.com/set-up-a-simple-javascript-unit-test-environment-from-zero-ab8c053050ac
 

@@ -28,7 +28,7 @@
                             </div>
                         `;
                         body.appendChild(item);
-                    }, 100)
+                    })
                 });
             });
         });

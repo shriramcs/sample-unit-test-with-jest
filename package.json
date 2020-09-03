@@ -1,0 +1,12 @@
+{
+  "name": "simpl-unit-test-with-jest",
+  "version": "1.0.0",
+  "description": "Sample project with jest unit test set up",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}

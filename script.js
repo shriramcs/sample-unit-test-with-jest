@@ -12,7 +12,7 @@
                     setTimeout(() => {
                         const item = document.createElement('div');
                         item.innerHTML = `
-                            <img loading="lazy" alt="${obk.mission_name}" src="${obj.links.mission_patch_small}" >
+                            <img loading="lazy" alt="${obj.mission_name}" src="${obj.links.mission_patch_small}" >
                             <div>
                                 Mission Id: ${obj.mission_id}
                             </div>

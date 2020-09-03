@@ -8,7 +8,6 @@
     function loadData(){
         fetch(URL).then(resp => {
             resp.json().then(result => {
-                console.log('data loaded', result);
                 result.forEach((obj) => {
                     setTimeout(() => {
                         const item = document.createElement('div');
